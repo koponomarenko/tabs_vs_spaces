@@ -1,0 +1,8 @@
+# http://editorconfig.org
+
+# Top-most EditorConfig file
+root = true
+
+# Indentation
+indent_style = tab
+indent_size = 4
