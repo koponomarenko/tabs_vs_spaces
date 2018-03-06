@@ -1,8 +1,5 @@
 here is some text
-	this text is indented
+	this text is indented with 1 tab symbol
 
 here is some text
-	this text is indented
-
-here is some text
-	this text is indented
+    this text is indented with 4 spaces
